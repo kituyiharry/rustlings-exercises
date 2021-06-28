@@ -1,6 +1,6 @@
 
 
-A oc
+A diff ofsolutions to the rustlings exercises
 
 
 ```
